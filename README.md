@@ -1,6 +1,6 @@
 # Projeto Site 
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Junior-Hugos/Projeto-Calculadora/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Junior-Hugos/Projeto-Site/blob/main/LICENSE)
 
 # Sobre o projeto
 
