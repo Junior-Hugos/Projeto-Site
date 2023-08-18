@@ -12,11 +12,15 @@ Este Projeto teve por objetivo a aquisição de conhecimentos HTML e CSS e BOOTS
 ## Front end
 - HTML
 -  CSS
-- BOOTSTRAP 
+- BOOTSTRAP
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css-000?style=for-the-badge&logo=CSS3)
+![JS](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=Javascript&)
 
 
 # Autor
 
 Edmilson Junior
 
-www.linkedin.com/in/edmilsonjunior87
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/edmilsonjunior87/)
