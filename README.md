@@ -21,6 +21,6 @@ Este Projeto teve por objetivo a aquisição de conhecimentos HTML e CSS e BOOTS
 
 # Autor
 
-Edmilson Junior
+<h3>Edmilson Junior</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/edmilsonjunior87/)
