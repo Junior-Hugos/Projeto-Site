@@ -9,15 +9,15 @@ Este Projeto teve por objetivo a aquisição de conhecimentos HTML e CSS e BOOTS
 
 
 # Tecnologias utilizadas
-## Front end
-- HTML
--  CSS
-- BOOTSTRAP
-
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css-000?style=for-the-badge&logo=CSS3)
 ![JS](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=Javascript&)
 
+## Front end
+- HTML
+-  CSS
+- BOOTSTRAP
+  
 
 # Autor
 
